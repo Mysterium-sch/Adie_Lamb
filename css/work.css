@@ -1,12 +1,19 @@
 
 
 .adjust {
-    width: 99%;
-    height: 50%;
+    position: relative;
+    left: 12%;
+    width: 75%;
+    height: 1375px;
     align-self: center;
-    margin-right: 10px;
-    margin-left: 10px;
+    border: 30px solid #283d3b;
 }
+
+.adjust:hover {
+    border: 30px solid #197278;
+}
+
+
 
 
 h1 {
